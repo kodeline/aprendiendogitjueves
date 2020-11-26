@@ -1,0 +1,42 @@
+body{
+    background-color: #fff5ea;
+    font-family: 'Montserrat', sans-serif;
+}
+.letra{
+    font-size: 20px;
+}
+aside{
+    float: right;
+    margin: 30px;
+}
+#menu{
+    background-color: #968c83;
+}
+#menu ul{
+    list-style: none;
+}
+#menu ul li{
+    display: inline-block;
+
+}
+#menu ul li a{
+   color:#FFF5EA ;
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+}
+#menu ul li a:hover{
+    background-color:#f7dad9 ;
+    color:#373a40;
+}
+
+#resaltar{
+    color: #794c74;
+}
+.columna{
+    width: 75%;
+}
+
+#final{
+    padding: 30px;
+}
